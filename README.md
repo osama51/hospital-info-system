@@ -12,4 +12,4 @@ A simple HIS app with UI built using Qt.
 
 ## To Run
 
-Open `firstTest.exe` file in the release `folder`
+Open `firstTest.exe` file in the `release` folder
